@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+## [Header 2](https://wandgibaut.github.io/testpage)
 ### Header 3
 
 - Bulleted
