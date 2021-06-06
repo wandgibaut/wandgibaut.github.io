@@ -1,7 +1,7 @@
 ---
 title: Test Page
 filename: testpage.md
-permalink: https://wandgibaut.github.io/testpage
+permalink: /testpage
 --- 
 
 aasas
