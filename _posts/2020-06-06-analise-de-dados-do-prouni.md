@@ -8,7 +8,7 @@ share-img: /assets/img/prouni-300x147.png
 tags: [dados publicos, python, dados]
 ---
 
-Nesse primeiro mini projeto, resolvi explorar um pouco os dados públicos sobre os beneficiários do ProUni. O *notebook* com o código pode ser encontrado [aqui](https://github.com/wandgibaut/one_weekeed_projects/blob/master/dados_prouni/data_notebook.ipynb). Nessa análise foquei em observar a distribuição racial ao longo dos anos e no percentual de pessoas negras contempladas em cada estado. Dois gráficos ilustrativos foram gerados e podem ser vistos abaixo.
+Nesse primeiro mini projeto, resolvi explorar um pouco os dados públicos sobre os beneficiários do ProUni, que podem ser encontrados [aqui](https://dados.gov.br/dataset/fundo-de-financiamento-estudantil-fies). O *notebook* com o código pode ser encontrado [aqui](https://github.com/wandgibaut/one_weekeed_projects/blob/master/dados_prouni/data_notebook.ipynb). Nessa análise foquei em observar a distribuição racial ao longo dos anos e no percentual de pessoas negras contempladas em cada estado. Dois gráficos ilustrativos foram gerados e podem ser vistos abaixo.
 
 ![serie historica](/assets/img/serie_historica_prouni.png "serie historica prouni")
 
