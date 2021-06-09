@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little bit about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Wandemberg Gibaut, a Ph.D. candidate in Artificial Intelligence with skills and interests in:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Cognitive Systems
+- Machine Learning
+- Robotics
+- Data science
+- Internet of Things
 
-What else do you need?
+Among other things that I would be less comfortable to work with, but still would take the challenge.
+
+
+This page - and this whole site - is under construction and should be constantly updated. Feel free to send any questions or suggestions to me! :)
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+soon
