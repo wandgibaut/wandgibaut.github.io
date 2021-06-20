@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Extrator de opinião sobre vagas em empresas - parte 1
-subtitle: Extrator de Conhecimento Coletivo: Uma implementação em python do algoritmo de ECC de (Angelo, 2014)
-cover-img: /assets/img/extrator.png
-thumbnail-img: /assets/img/extrator.png
-share-img: /assets/img/extrator.png
-tags: [linguagem natural, python, mineracao de dados]
+title: Analise Simples de Dados Públicos do ProUni
+subtitle: Pequena exploração sobre a distribuição racial dos beneficiários do prouni
+cover-img: /assets/img/prouni-300x147.png
+thumbnail-img: /assets/img/prouni-300x147.png
+share-img: /assets/img/prouni-300x147.png
+tags: [dados publicos, python, dados]
 ---
-
 Para esse segundo projeto várias coisas vieram em mente, desde postar coisas que ja fiz e ficaram esquecidas por ai até explorar APIs do twitter e coisa assim. No entanto conversando com amigos sobre vagas de emprego, me deparei com a situação de haver uma discrepância entre a autodescrição da empresa em redes sociais e percepção de seus funcionários, muito mais próximos da realidade.
 Nesse ponto eu comecei a observar o Glassdoor para além do fator salário, comecei a ver as avaliações que fazem sobre as empresas. Algumas empresas tem MUITAS avaliações, chegando a ser impraticável ler todas elas. A própria plataforma do Glassdoor tem um "sumarizador de opiniões" mas eu achei essa uma boa oportunidade de trablalhar como projeto e, quem sabe, fazer algo legal.
 
