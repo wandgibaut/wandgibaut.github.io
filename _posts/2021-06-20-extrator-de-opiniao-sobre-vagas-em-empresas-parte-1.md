@@ -31,10 +31,11 @@ A implementação pode ser vista no **notebook** disponível [aqui](https://gith
 
 Abaixo, um exemplo de saída ao se utilizar a palavra 'food' nas avaliações do primeiro restaurante do banco de dados e a nota média do restaurante:
 
-1:'The beers are great - best in the city in my opinion, food is excellent and the service is great!'
-2: 'But per my travel experiences: compared to other brew pubs (in general), the food here is better than what I usually find in a brew pub; the price, relative to food value/quality, is better than I find in brew pubs (in general); and the price for a meal is very fair compared to most San Francisco dining establishments of this caliber.'
+**1:** 'The beers are great - best in the city in my opinion, food is excellent and the service is great!'
 
-4.0
+**2:** 'But per my travel experiences: compared to other brew pubs (in general), the food here is better than what I usually find in a brew pub; the price, relative to food value/quality, is better than I find in brew pubs (in general); and the price for a meal is very fair compared to most San Francisco dining establishments of this caliber.'
+
+**4.0**
 
 Pode-se notar que o Extrator funciona bem o suficiente pra capturarmos uma opinião representativa, quando comparamos revisão e notas. 
 
