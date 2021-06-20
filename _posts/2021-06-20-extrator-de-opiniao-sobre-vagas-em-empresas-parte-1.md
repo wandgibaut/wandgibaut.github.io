@@ -5,7 +5,7 @@ subtitle: Extrator de Conhecimento Coletivo: Uma implementação em python do al
 cover-img: /assets/img/extrator.png
 thumbnail-img: /assets/img/extrator.png
 share-img: /assets/img/extrator.png
-tags: [linguagem natural, python, mineração de dados]
+tags: [linguagem natural, python, mineracao de dados]
 ---
 
 Para esse segundo projeto várias coisas vieram em mente, desde postar coisas que ja fiz e ficaram esquecidas por ai até explorar APIs do twitter e coisa assim. No entanto conversando com amigos sobre vagas de emprego, me deparei com a situação de haver uma discrepância entre a autodescrição da empresa em redes sociais e percepção de seus funcionários, muito mais próximos da realidade.
