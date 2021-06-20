@@ -2,7 +2,6 @@
 layout: post
 title: Extrator de Opinião em Empresas - parte 1
 subtitle: Uma Implementação do Extrator de Conhecimento Coletivo visto em (Angelo, 2014)
-cover-img: /assets/img/extrator.png
 thumbnail-img: /assets/img/extrator.png
 share-img: /assets/img/extrator.png
 tags: [linguagem natural, python, mineracao de dados]
