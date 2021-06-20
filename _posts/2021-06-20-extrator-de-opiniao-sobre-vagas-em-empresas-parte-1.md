@@ -2,9 +2,9 @@
 layout: post
 title: Extrator de opinião sobre vagas em empresas: parte 1
 subtitle: Extrator de Conhecimento Coletivo: Uma implementação em python do algoritmo de ECC de (Angelo, 2014)
-cover-img: /assets/img/prouni-300x147.png
-thumbnail-img: /assets/img/prouni-300x147.png
-share-img: /assets/img/prouni-300x147.png
+cover-img: /assets/img/extrator.png
+thumbnail-img: /assets/img/extrator.png
+share-img: /assets/img/extrator.png
 tags: [linguagem natural, python, mineração de dados]
 ---
 
