@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extrator de opinião sobre vagas em empresas: parte 1
+title: Extrator de opinião sobre vagas em empresas - parte 1
 subtitle: Extrator de Conhecimento Coletivo: Uma implementação em python do algoritmo de ECC de (Angelo, 2014)
 cover-img: /assets/img/extrator.png
 thumbnail-img: /assets/img/extrator.png
