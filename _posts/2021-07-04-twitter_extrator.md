@@ -2,7 +2,7 @@
 layout: post
 title: Extrator de Opinião no Twitter
 subtitle: Extraindo, selecionando e analisando tweets sobre temas específicos
-thumbnail-img: /assets/img/extrator.png
+thumbnail-img: "https://img.icons8.com/fluent/48/000000/twitter.png"
 share-img: "https://img.icons8.com/fluent/48/000000/twitter.png"
 tags: [linguagem natural, python, mineracao de dados]
 ---
