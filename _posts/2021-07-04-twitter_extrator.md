@@ -4,7 +4,7 @@ title: Extrator de Opinião no Twitter
 subtitle: Extraindo, selecionando e analisando tweets sobre temas específicos
 thumbnail-img: "https://img.icons8.com/fluent/48/000000/twitter.png"
 share-img: "https://img.icons8.com/fluent/48/000000/twitter.png"
-tags: [linguagem natural, python, mineracao de dados]
+tags: [linguagem natural, python, mineracao de dados, twitter]
 ---
 
 Devido à semana corrida (e parte do fds), resolvi aproveitar o Extrator feito no projeto anterior e combiná-lo com um scrapping do Twitter. Além disso, resolvi usar o módulo **TextBlob** para fazer uma análise de sentimento simples (decidir se o tweet tem conteúdo positivo ou negativo).
