@@ -2,8 +2,8 @@
 layout: post
 title: Extrator de Opinião em Empresas - parte 1
 subtitle: Uma Implementação do Extrator de Conhecimento Coletivo visto em (Angelo, 2014)
-thumbnail-img: /assets/img/extrator.png
-share-img: /assets/img/extrator.png
+thumbnail-img: /assets/img/extrator/extrator.png
+share-img: /assets/img/extrator/extrator.png
 tags: [linguagem natural, python, mineracao de dados]
 ---
 
@@ -16,7 +16,7 @@ Pensei então em usar um algoritmo apresentado na dissertação de mestrado de T
 A Figura 1 ilustra a estrutura do Extrator
 
 
-![serie historica](/assets/img/extrator.png "extrator")
+![serie historica](/assets/img/extrator/extrator.png "extrator")
 Figura 1: Etapas de processamento da informação no ECC segundo abordagem KDD
 (FAYYAD et al., 1996) conforme visto em (ANGELO, 2014).
 
