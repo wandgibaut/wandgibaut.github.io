@@ -16,7 +16,7 @@ Pensei então em usar um algoritmo apresentado na dissertação de mestrado de T
 A Figura 1 ilustra a estrutura do Extrator
 
 
-![serie historica](/assets/img/extrator/extrator.png "extrator")
+![extrator](/assets/img/extrator/extrator.png "extrator")
 Figura 1: Etapas de processamento da informação no ECC segundo abordagem KDD
 (FAYYAD et al., 1996) conforme visto em (ANGELO, 2014).
 
