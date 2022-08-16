@@ -1,15 +1,15 @@
 ---
-layout: sober
+layout: default
 title: Publications
 subtitle: test
 ---
 
 <div class="content">
 
-  <div id="description">
+  <!--<div id="description">
     {% include me.html %}
   </div>
-</div>
+</div>-->
 
 <div id="accordion">
   
