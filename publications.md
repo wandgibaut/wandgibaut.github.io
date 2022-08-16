@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sober
 title: Publications
 subtitle: test
 ---
