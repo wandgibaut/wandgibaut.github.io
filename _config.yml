@@ -15,10 +15,10 @@ author: Wand Gibaut
 
 navbar-links:
   About Me: "aboutme"
-  One Weekend Projects: "projects"
   Research:
     - Current Projects: "research"
     - Publications: "publications"
+  One Weekend Projects: "projects"
   Github Page: "https://github.com/wandgibaut"
 
 # --- Logo --- #
