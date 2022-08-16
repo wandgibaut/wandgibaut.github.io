@@ -25,11 +25,7 @@ subtitle: test
       <img class="center" alt="Funded by aaaaaaa"
       src="https://aaaaaa"></a>
   </div>
-  <!-- <h1 id="code" class="panel">Code</h1>
-  <div class="panel-content">
-    {% capture code %}{% include code.md %}{% endcapture %}
-    {{ code | markdownify }}
-  </div> -->
+  
   <h1 id="cv" class="panel">CV</h1>
   <div class="panel-content">
     {% include cv.html %}
