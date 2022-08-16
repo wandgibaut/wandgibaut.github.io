@@ -4,9 +4,9 @@ title: Publications
 subtitle: test
 ---
 
-<div class="content">
+<!--<div class="content">
 
-  <!--<div id="description">
+  <div id="description">
     {% include me.html %}
   </div>
 </div>-->
