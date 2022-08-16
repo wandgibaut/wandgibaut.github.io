@@ -26,7 +26,3 @@ subtitle: test
       src="https://aaaaaa"></a>
   </div>
   
-  <h1 id="cv" class="panel">CV</h1>
-  <div class="panel-content">
-    {% include cv.html %}
-  </div>
