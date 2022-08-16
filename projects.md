@@ -1,20 +1,5 @@
 ---
 layout: blog
 title: One Weekend Projects
-subtitle: test
+subtitle: Projetos de 1 fim de semana
 ---
-
-
-putting some content here!!!
-
-
-
-aa
-a
-a
-a
-a
-a
-a
-a
-a
