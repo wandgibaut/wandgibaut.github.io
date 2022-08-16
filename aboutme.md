@@ -20,3 +20,8 @@ This page - and this whole site - is under construction and should be constantly
 ### My story
 
 soon
+
+
+### Credits on the site
+
+despite being a fork from [Dean Attali](https://deanattali.com/) beautiful jerkyl template, this site contains more than a few ideas from the webepage of [Olivia Guest](https://oliviaguest.com/). I did not fork her directly, but I must still give her credits for code snippets.
