@@ -14,7 +14,7 @@
   title: "Extending the CST: The Distributed Cognitive Toolkit"
   journal:  2020 International Conferences on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
   doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics50389.2020.00088
-
+  github: https://github.com/wandgibaut/dct
 
 - date: 2020-01-01
   type: journal
