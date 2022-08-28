@@ -18,4 +18,4 @@ H.IAAC aims at the development and dissemination of knowledge about technologies
 
 The objective of this groups is to study and explore Neurosymblic AI approaches, aiming to solve Deep Learning challenges, such "blackbox effect". 
 
-Currently, we're exploring Fairness applications using fairness constraints on networks and working with real, social datasets.
+Currently, we're exploring Fairness applications using constraints on networks and working with real, social datasets.
