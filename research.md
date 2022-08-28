@@ -4,7 +4,7 @@ title: Research
 subtitle: test
 ---
 
-Besides my, PhD project, I'm current working on these other projects:
+Besides my PhD project, I'm current working on these other projects:
 
 ## HIAAC - Hub de Inteligência Artificial e Arquiteturas Cognitivas
 
