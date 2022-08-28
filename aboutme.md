@@ -8,9 +8,11 @@ My name is Wandemberg Gibaut, a Ph.D. candidate in Artificial Intelligence with 
 
 - Cognitive Systems
 - Machine Learning
-- Robotics
 - Data science
+- Robotics
 - Internet of Things
+- AI Fairness
+- XAI
 
 Among other things that I would be less comfortable to work with, but still would take the challenge.
 
