@@ -12,10 +12,10 @@ subtitle: test
   </div>
 
 
-  <h1 id="funding" class="panel">Funding</h1>
+  <!--<h1 id="funding" class="panel">Funding</h1>
   <div class="panel-content">
     <a href="https://aaaaaa">
       <img class="center" alt="Funded by aaaaaaa"
-      src="https://aaaaaa"></a>
-  </div>
+      src="https://aaaaaa"></a> -->
+</div>
   

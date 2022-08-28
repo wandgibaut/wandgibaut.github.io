@@ -1,9 +1,72 @@
-- date: 2014-01-01
+- date: 2022-01-24
+  type: symposium
+  status: published
+  authors: GUDWIN, RICARDO ; ROHMER, ERIC ; PARAENSE, ANDRÉ ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; RAIZER, KLAUS ; FELJAN, ANETA VULGARAKIS
+  title: "A Double-Layer Subsumption Mechanism for Enforcing Sequential Behaviors in a Cognitive Architecture"
+  journal: 2021 IEEE Symposium Series on Computational Intelligence (SSCI)
+  doi: 10.1109/SSCI50451.2021.9660110
+
+
+- date: 2020-12-28
+  type: conference
+  status: published
+  authors: <b>GIBAUT, WANDEMBERG</b> ; GUDWIN, RICARDO 
+  title: "Extending the CST: The Distributed Cognitive Toolkit"
+  journal:  2020 International Conferences on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
+  doi: 10.1109/iThings-GreenCom-CPSCom-SmartData-Cybermatics50389.2020.00088
+
+
+- date: 2020-01-01
   type: journal
   status: published
-  authors: aaaaa
-  title: aa
-  journal: aaaa
-  doi: aaaa
-  pdf: aaaa
+  authors: GUDWIN, RICARDO ; ROHMER, ERIC ; PARAENSE, ANDRÉ ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; OLIVEIRA, IAN ; ROCHA, SENDER ; RAIZER, KLAUS ; FELJAN, ANETA VULGARAKIS
+  title: "The TROCA Project: An autonomous transportation robot controlled by a cognitive architecture"
+  journal: Cognitive Systems Research
+  doi: 10.1016/j.cogsys.2019.09.011
 
+
+- date: 2019-11-01
+  type: conference
+  status: published
+  authors: <b>GIBAUT, WANDEMBERG</b> ; GUDWIN, RICARDO 
+  title: "Using Environment Exploration for Inverse Kinematics Learning"
+  journal:  Anais do 14º Simpósio Brasileiro de Automação Inteligente
+  doi: 10.17648/sbai-2019-111197
+
+
+- date: 2019-07-17
+  type: book
+  status: published
+  authors: GUDWIN, RICARDO ; ROHMER, ERIC ; PARAENSE, ANDRÉ ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; OLIVEIRA, IAN ; ROCHA, SENDER ; RAIZER, KLAUS ; FELJAN, ANETA VULGARAKIS
+  title: "A Cognitive Architecture for a Transportation Robotic System"
+  book: Biologically Inspired Cognitive Architectures Meeting, Part of the Advances in Intelligent Systems and Computing book series (AISC,volume 948)
+  doi: 10.1007/978-3-030-25719-4_15
+
+
+- date: 2018-10-01
+  type: journal
+  status: published
+  authors: GUDWIN, RICARDO ; PARAENSE, ANDRÉ ; DE PAULA, SUELEN ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; CASTRO, ELISA ; FIGUEIREDO, VERA ; RAIZER, KLAUS
+  title: "An urban traffic controller using the MECA cognitive architecture"
+  journal: Biologically Inspired Cognitive Architectures
+  doi: 10.1016/j.bica.2018.07.015
+
+
+- date: 2018-01-01
+  type: journal
+  status: published
+  authors: GUDWIN, RICARDO ; PARAENSE, ANDRÉ ; DE PAULA, SUELEN ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; CASTRO, ELISA ; FIGUEIREDO, VERA ; RAIZER, KLAUS
+  title: "An Overview of the Multipurpose Enhanced Cognitive Architecture (MECA)"
+  journal: Procedia Computer Science
+  doi: 10.1016/j.procs.2018.01.025
+  github: https://github.com/CST-Group/meca
+
+
+- date: 2017-10-01
+  type: journal
+  status: published
+  authors: GUDWIN, RICARDO ; PARAENSE, ANDRÉ ; DE PAULA, SUELEN ; FRÓES, EDUARDO ; <b>GIBAUT, WANDEMBERG</b> ; CASTRO, ELISA ; FIGUEIREDO, VERA ; RAIZER, KLAUS
+  title: "The Multipurpose Enhanced Cognitive Architecture (MECA)"
+  journal: Biologically Inspired Cognitive Architectures
+  doi: 10.1016/j.bica.2017.09.006
+  github: https://github.com/CST-Group/meca
