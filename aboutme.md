@@ -15,12 +15,12 @@ My name is Wandemberg Gibaut, a Ph.D in Artificial Intelligence with skills and 
 - Internet of Things
 - AI Fairness
 
-Among other things, I would be less comfortable to work with, but still would take the challenge.
-
-
-This page - and this whole site - is under construction and should be constantly updated. Feel free to send me any questions or suggestions! :)
+Among other things, I would be less comfortable to work with but still would take the challenge.
 
 <!--
+This page - and this whole site - is under construction and should be constantly updated. Feel free to send me any questions or suggestions! :)
+
+
 ### My story
 
 soon
