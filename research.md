@@ -4,18 +4,19 @@ title: Research
 subtitle: test
 ---
 
-Besides my PhD project, I'm current working on these other projects:
+I'm currently working on these other projects:
 
-## HIAAC - Hub de Inteligência Artificial e Arquiteturas Cognitivas
+# Eldorado Research Institute
 
-H.IAAC aims at the development and dissemination of knowledge about technologies capable of integrating various intelligence resources into mobile devices, making them able to make decisions.
+## Main Project
 
-- [webpage](https://hiaac.unicamp.br/)
-- [github](https://github.com/H-IAAC)
+Working as Tech Leader of a project related to LLM-based Multiagents Systems
 
 
-## Multimodal Machine Learning Group - Neurosymbolic AI front
+## Multimodal LLM-based Agents group
 
-The objective of this groups is to study and explore Neurosymblic AI approaches, aiming to solve Deep Learning challenges, such "blackbox effect". 
+The objective of this group is to study and explore Multimodal LLM-based Agents, aiming to solve challenges, such as multiagent multimodal understanding and task assignment.
 
-Currently, we're exploring Fairness applications using constraints on networks and working with real, social datasets.
+# Academia
+
+I`m currently co-advising a Master's student project related to LLM and Fairness
