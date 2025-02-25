@@ -36,8 +36,8 @@
 
 
 - date: 2023-05-12
-  type: -
-  status: pre-print
+  type: preprint
+  status: not published
   authors: <b>GIBAUT, WANDEMBERG</b>; PEREIRA, LEONARDO; GRASSIOTTO, FABIO; OSORIO, ALEXANDRE; GADIOLI, EDER; MUÑOZ, AMPARO; GOMES, SILDOLFO; SANTOS, CLAUDIO  
   title: "Neurosymbolic AI and its Taxonomy: a survey"
   journal: arXiv preprint arXiv:2305.08876
